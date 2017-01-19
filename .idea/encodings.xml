@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DataBase/src/team/smms/database/dao/CommodityDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/listener/CommodityPic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/smpack/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/smpack/MainInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/smpack/Yanzhengma.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/tabbedpane/Authority.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/tabbedpane/BasicInformation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/tabbedpane/Check.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/tabbedpane/Maintenance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GUI/src/team/smms/gui/tabbedpane/SecAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Proxy/src/team/smms/proxy/operation/Operation.java" charset="GBK" />
+  </component>
+</project>
